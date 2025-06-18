@@ -83,7 +83,11 @@
     - Check usernames (username checker) : https://checkusernames.com/
     - Instant username (username checker) : https://instantusername.com
     - Find american people complete info : https://www.zabasearch.com/
+    - Find american people complete info : https://www.idcrawl.com/
     - Find people with name, gmail, username : https://com.lullar.com/
+    - Scrape Twitter profiles without an account : https://twstalker.com/
+    - Get complete insights about a Reddit account : https://snoosnoop.com
+    - Fetch TikTok account information : https://omar-thing.nekoweb.org/
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
@@ -169,6 +173,7 @@
     - Sun calculation map : http://suncalc.net/
     - USA live map : https://usa.liveuamap.com
     - Sentinel Hub : https://apps.sentinel-hub.com/eo-browser/
+    - GeoJSON (JSON mapping) : https://geojson.io/
    
   - <i>AVIATION</i>
     - Skyvector (live map of private flights) : https://skyvector.com/
@@ -263,6 +268,9 @@
     - BGPView : https://bgpview.io/
     - IPToolBox : https://www.ipaddressguide.com/
     - ThreatIntelligence : https://threatintelligenceplatform.com/
+    - Internet outages live map : https://www.pingdom.com/outages/
+    - Internet outages live map : https://www.thousandeyes.com/outages/
+    - Search for hosts, CVEs and exposed buckets : https://search.odin.io/
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap
@@ -331,6 +339,7 @@
     - Scientific litterature search engine : https://www.semanticscholar.org/
     - Scientific litterature search engine : https://www.scienceopen.com/
     - OnlyFans search engine : https://onlysearch.co/
+    - US sex offenders database : https://www.justice.gov/action-center/locate-prison-inmate-or-sex-offender
 
   - <i>SEARCH ENGINES BY REGION / COUNTRY </i>
     - Arabic : http://www.arabo.com/
@@ -494,6 +503,7 @@
   - Kase Scenarios : https://kasescenarios.com/
   - CTF collection : https://github.com/apsdehal/awesome-ctf
   - QuizTime : https://x.com/quiztime
+  - Limitless : https://limitless-osint.com/
 
 <br>
 
