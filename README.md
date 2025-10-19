@@ -20,6 +20,7 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;<strong>CRYPTO / ONCHAIN ANALYSIS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" />&ensp;<strong>FINANCIAL</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />&ensp;<strong>WEAPONS & CONFLICTS</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;<strong>COMPLETE TOOLS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />&ensp;<strong>TRAINING</strong></p>
@@ -196,6 +197,7 @@
     - OpenseaMap : https://map.openseamap.org/
     - Container Tracking : https://www.bic-code.org/
     - Bill number & container tracking : https://www.bltracking.com/
+    - MarineTraffic : https://www.marinetraffic.com
 
   - <i>TRAINS</i>
     - AmTrak (register of all rail journeys) : https://juckins.net/amtrak_status/archive/html/history.php
@@ -271,6 +273,7 @@
     - Internet outages live map : https://www.pingdom.com/outages/
     - Internet outages live map : https://www.thousandeyes.com/outages/
     - Search for hosts, CVEs and exposed buckets : https://search.odin.io/
+    - PulseDive : https://pulsedive.com/
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap
@@ -310,6 +313,7 @@
     - Companies database : https://www.aihitdata.com/search/companies
     - Organizations OSINT : https://traversals.com/blog/osint-tools/
     - Zefix (Swiss business search) : https://zefix.ch/
+    - InfoClipper : https://www.info-clipper.com/
 
 <br>
 
@@ -429,6 +433,7 @@
     - Block and transactions : https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/
     - 0xScope : https://scan.0xscope.com/
     - ChainAbuse (crypto scams) : https://www.chainabuse.com/reports
+    - Blockchain.com : https://www.blockchain.com/explorer
 
   - <i>ONCHAIN ANALYSIS FRAMEWORKS</i>
     - TX Analysis tools : https://graph.org/TX-Analysis-tools-04-19
@@ -454,6 +459,22 @@
     - Dcode : https://www.dcode.fr/
     - CyberChef : https://gchq.github.io/CyberChef/
     - MD5Hashing : https://md5hashing.net/
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />&ensp;WEAPONS & CONFLICTS
+
+  - <i>WEAPON DATABASES</i>
+    - ModernFireArms : https://modernfirearms.net/
+    - TheGunDataBase : https://www.thegundatabase.com/
+    - WeaponSystems : https://weaponsystems.net/menu
+    - Weapon Index (WWII - Today) : https://www.theworldwars.net/weapons/index.php
+
+  - <i>CONFLICTS</i>
+    - UCDP Conflicts Database : https://ucdp.uu.se/
+    - Conflict Index Dashboard (ACLED) : https://acleddata.com/platform/conflict-index-dashboard
+    - Wars Live Map : https://war.liveuamap.com/
+    - Interactive Geopolitics Map and Wars : https://www.mapdis.com/diplomacy
 
 <br>
 
